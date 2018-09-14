@@ -1,0 +1,30 @@
+Flask
+
+Microframework for python
+
+Ferramenta utilizada para simplificar o desenvolvimento web
+
+Instalação do PIP
+
+$sudo easy_install pip
+
+Instalando o virtualenv
+
+$ sudo -H pip install virtualenv
+
+Criar o ambiente 
+
+$ virtualenv -p python3 venv
+
+Acessar o venv
+
+$ . venv/bin/activate
+
+Instalando o Flask
+
+$ sudo pip install Flask
+
+$ FLASK_APP=hello.py flask run
+
+
+
